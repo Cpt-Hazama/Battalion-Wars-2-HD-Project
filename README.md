@@ -1,6 +1,6 @@
 ![tex1_400x124_1f717e90d31c0a9e_74bae2c198170ce9_9](https://user-images.githubusercontent.com/7193583/190831119-4e369e70-14aa-444b-b988-0fd89fd6df43.png)
 
-An HD overhaul of BW2 that comes with 1K/2K/4K sprites, diffuse, bump, and specular maps that will truly bring Battalion Wars 2 to life on the PC. This is a texture resource for Dolphin Emulator, meaning it's entirely client-side and is completely fine to use in multiplayer
+An HD overhaul of BW2 that comes with 1K/2K/4K sprites, diffuse, bump, and specular maps that will truly bring Battalion Wars 2 to life on the PC. This is a texture resource for Dolphin Emulator, meaning it's entirely client-side and is completely fine to use in multiplayer. Please note that is is still a WIP and will be for a while, there are a lot of textures in Battalion Wars and the textures that are being used in this mod come straight from my Battalion Wars 2 mod for GMod. That means that as progress grows on that pack, it will also grow on this one.
 
 ## Installation
 - Use the GitHub Desktop app to install this!
